@@ -1,0 +1,17 @@
+htm, body{
+
+    height: 100%;
+    
+}
+
+.container{
+
+    max-width: 400px;
+    padding: 1rem;
+    
+}
+h1{
+
+    text-align: center;
+    
+}
